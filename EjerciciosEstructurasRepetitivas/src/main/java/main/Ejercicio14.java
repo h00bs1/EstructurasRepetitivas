@@ -11,9 +11,10 @@ public class Ejercicio14 {
 
         Scanner sc = new Scanner(System.in);
 
-        Ejercicio14 ejercicio14 = new Ejercicio14();
-        ejercicio14.ejer14(sc);
-    }
+            Ejercicio14 ejercicio14 = new Ejercicio14();
+            ejercicio14.ejer14(sc);
+        }
+
     public void ejer14(Scanner sc) {
 
         int diferenciaKm = 150-70;

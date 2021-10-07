@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class Menu {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws InterruptedException {
 
         Scanner sc = new Scanner(System.in);
 
